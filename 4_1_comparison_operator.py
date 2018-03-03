@@ -1,7 +1,7 @@
 ##########################
 ## compare two variables #
 ##########################
-i=5
+i=6
 j=6
 print("i < j --> {0}".format(i<j))
 print("i > j --> {0}".format(i>j))
