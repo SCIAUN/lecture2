@@ -3,12 +3,12 @@ b= True
 c= False
 print("a is {0}".format(a))
 print("b is {0}".format(b))
-print("b is {0}".format(c))
+print("c is {0}".format(c))
 print("~a is {0}".format(not a))
 print("~b is {0}".format(not b))
-print("~b is {0}".format(not c))
-print("a & b is {0}".format(a and b and c)) 
-print("a or b is {0}".format(a or b or c)) 
+print("~c is {0}".format(not c))
+print("a & b & c is {0}".format(a and b and c)) 
+print("a or b or c is {0}".format(a or b or c)) 
 
 
 #################################################
