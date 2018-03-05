@@ -9,10 +9,10 @@
 ######################
  name='Javad'
  family='heidari'
- greeting= str1+name+family
+ greeting= str2+name+family
  print(greeting)
 
- greeting2=str1+" "+name+" "+family
+ greeting2=str2+" "+name+" "+family
  print(greeting2)
 
  print(("\'"+greeting2+" \'") * 3)
