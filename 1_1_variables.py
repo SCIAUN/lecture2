@@ -6,11 +6,14 @@
 #######################################
 
 # name = value
-name = "Ali"
-year = 1396
+name = "ebrahim"
+age = 21
+avg = 16.66
 
 ###########################################
 ###### accessing the value inside variable#
 ###########################################
-print(name)
-print(year)
+print("student :",firstname , lastname)
+print("average =", avg)
+print("age : " , age)
+
