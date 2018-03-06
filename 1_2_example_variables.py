@@ -7,12 +7,12 @@ pi = 3.1415
 #########################################
 ### define a new varibale called radius #
 #########################################
-radius = 2.2
+radius = 6
 ########################################################
 ### define area and save the value of expression to it #
 ########################################################
-area = pi * (radius ** 2)
+area = pi * (radius * radius)
 ############################################
 ## print the calculated area of the circle #
 ############################################
-print(area)
+print("area: " , area)
