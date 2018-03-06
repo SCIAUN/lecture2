@@ -1,11 +1,11 @@
 ##########################
 # get a string from user #
 ##########################
-text = input("enter what you want\n")
+text = input("EbinoOr")
 print(5*text)
 
 ##########################
 # get a number from user #
 ##########################
-number=int(input("enter an integer\n"))
+number=int(input(27))
 print(5*number)
