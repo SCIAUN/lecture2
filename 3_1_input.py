@@ -1,7 +1,7 @@
 ##########################
 # get a string from user #
 ##########################
-text = input("enter what you want\n")
+text = input("EbinoOr\n")
 print(5*text)
 
 ##########################
